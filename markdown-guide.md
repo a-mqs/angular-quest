@@ -58,6 +58,7 @@ Você pode criar tabelas com o seguinte formato:
 |----------|----------|----------|
 | Dado 1   | Dado 2   | Dado 3   |
 | Dado 4   | Dado 5   | Dado 6   |
+
 8. Linhas Horizontais
 Para adicionar uma linha horizontal, use três ou mais hífens (---), asteriscos (***) ou sublinhados (___).
 
